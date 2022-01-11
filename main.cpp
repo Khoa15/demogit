@@ -1,8 +1,12 @@
 #include <stdio.h>
 
+// Loc
+int sum(int a, int b) {
+	return a + b;
+}
 
 int main() {
-	printf("Hello wold");
+	
 
 
 	return 0;
